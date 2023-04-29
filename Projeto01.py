@@ -12,6 +12,7 @@ while (myfunction (dec) % 2 != 0):
     myfunction(dec)
 #eu queria concatenar todos os elementos de lista para que eles aparecessem juntos no print
 print(list_b)
+#fazer com que a lista não apareça vazia, mas apresente todos os restos da divisão inteira por dois!
 
 
 
